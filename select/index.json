@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ココン東西",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2026-03-11T16:13:41.269997Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ココン東西",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_ココン東西_みらくらぱーく!.txt"
+    }
+  ]
+}
